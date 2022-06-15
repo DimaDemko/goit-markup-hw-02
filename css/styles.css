@@ -188,6 +188,11 @@ ul {
   background-color: var(--accent-color);
 }
 /* Наши проекты */
+
+.name {
+  display: none;
+}
+
 .projects .title {
   font-weight: 700;
   font-size: 18px;
